@@ -168,7 +168,7 @@ Upgrading jolicode/castor (v0.15.0 => dev-main 505a4c0): Checking out 505a4c05e5
 
 ## Retry my sftp function
 
-Try -> Good ✅
+Try -> Error ❌
 ```bash
 $ castor sftp
 
